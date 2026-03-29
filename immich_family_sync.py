@@ -4,7 +4,7 @@
 # immich_family_sync.py
 #
 # Copyright (c) 2025 Valerio Fuoglio
-# https://github.com/johndoe
+# https://github.com/vfuoglio
 #
 # This software is released under the MIT License.
 # https://opensource.org/licenses/MIT
