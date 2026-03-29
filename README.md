@@ -117,7 +117,7 @@ SOURCE_API_KEYS = ["KEY1", "KEY2"]
 DEST_API_KEY = "DESTKEY"
 
 MAX_IN_MEMORY_SIZE_MB = int(os.getenv("IMMICH_MAX_IN_MEMORY_MB", "30"))
-TEMP_DIR = "/volume1/docker/immich/fa-tmp"
+TEMP_DIR = "/tmp/fa-tmp"
 ```
 
 
